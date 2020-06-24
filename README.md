@@ -1,6 +1,6 @@
 # Projeto
- primeiro repositório do curso Git e GitHub.
-
-Repositório criado durante uma aula ao vivo.
-
-essa linha eu adicionei diretamente no site
+ fazendo algumas alterações de teste
+ 
+**negrito** 
+*itálico*
+***interessante***
